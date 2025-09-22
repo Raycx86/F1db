@@ -1,4 +1,5 @@
 import requests
+import numpy as np
 
 api_link = "https://f1api.dev/api/"
 
